@@ -222,21 +222,7 @@
 
 <!-- ===================== QUOTE CARD ===================== -->
 <div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td bgcolor="#1a1b27" style="padding: 40px; border-radius: 10px;" align="center">
-        <p style="font-size: 20px; color: #79dafa; font-family: 'Georgia', serif; font-style: italic;">
-          <span style="color: #ff9e64; font-size: 30px;">“</span>
-          Any fool can write code that a computer can understand. 
-          Good programmers write code that humans can understand.
-          <span style="color: #ff9e64; font-size: 30px;">”</span>
-        </p>
-        <p align="right" style="color: #bb9af7; font-size: 18px; font-weight: bold; margin-top: 10px;">
-          — Martin Fowler
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=160&section=header&text=“Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.”&fontSize=18&fontAlignY=45&fontColor=9ef0ff&desc=—%20Martin%20Fowler&descSize=20&descAlignX=80&descAlignY=80&animation=twinkling" width="100%" />
 </div>
 <br/>
 
