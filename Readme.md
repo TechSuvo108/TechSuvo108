@@ -237,16 +237,13 @@
         font-size: 20px;
         font-style: italic;
         line-height: 1.6;
-        margin: 0;
       "
     >
       <span style="color: #ffd966; font-size: 28px;">“</span>
       Any fool can write code that a computer can understand.
       Good programmers write code that humans can understand.
       <span style="color: #ffd966; font-size: 28px;">”</span>
-    </p>
-
-    <p
+      <p
       style="
         color: #ff4d8d;
         font-size: 18px;
@@ -256,9 +253,9 @@
     >
       — Martin Fowler
     </p>
+    </p>
   </blockquote>
 </div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
