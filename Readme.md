@@ -222,7 +222,7 @@
 
 <!-- ===================== QUOTE CARD ===================== -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" width="80%" />
 </div>
 <br/>
 
