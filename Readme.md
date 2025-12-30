@@ -222,25 +222,7 @@
 
 <!-- ===================== QUOTE CARD ===================== -->
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td bgcolor="#0f0c29" align="center" style="padding: 40px; border: 1px solid #302b63; border-radius: 15px;">
-        <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-          <font color="#9ef0ff" size="5">
-            <i>
-              “Any fool can write code that a computer can understand.<br>
-              Good programmers write code that humans can understand.”
-            </i>
-          </font>
-        </p>
-        <p align="right">
-          <font color="#ff4d8d" size="4">
-            <b>— Martin Fowler</b>
-          </font>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" width="100%" />
 </div>
 <br/>
 
