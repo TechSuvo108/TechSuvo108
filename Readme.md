@@ -142,9 +142,9 @@
   <table width="100%">
     <tr>
       <td align="center">
-        <img width="400" 
-        src="https://github-readme-stats.vercel.app/api?username=TechSuvo108&show_icons=true&count_private=true&theme=tokyonight" 
-         alt="GitHub Stats" />
+        <img width="400"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechSuvo108&show_icons=true&count_private=true&theme=tokyonight"
+  alt="GitHub Stats" />
       </td>
       <td align="center">
         <img width="400"
