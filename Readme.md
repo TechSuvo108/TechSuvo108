@@ -221,27 +221,27 @@
 <br/>
 
 <!-- ===================== QUOTE CARD ===================== -->
-<!-- ===================== DEVELOPER QUOTE CARD ===================== -->
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect
-    &color=0:0f0c29,100:302b63
-    &height=180
-    &section=header
-    &text=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.
-    &fontSize=22
-    &fontAlignY=42
-    &fontColor=9ef0ff
-    &desc=Good%20programmers%20write%20code%20that%20humans%20can%20understand.%20—%20Martin%20Fowler
-    &descSize=18
-    &descAlignY=70
-    &descAlignX=50
-    &fontColorDesc=ff4d8d
-    &animation=twinkling"
-    width="100%"
-  />
+  <table width="100%">
+    <tr>
+      <td bgcolor="#0f0c29" align="center" style="padding: 40px; border: 1px solid #302b63; border-radius: 15px;">
+        <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+          <font color="#9ef0ff" size="5">
+            <i>
+              “Any fool can write code that a computer can understand.<br>
+              Good programmers write code that humans can understand.”
+            </i>
+          </font>
+        </p>
+        <p align="right">
+          <font color="#ff4d8d" size="4">
+            <b>— Martin Fowler</b>
+          </font>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
