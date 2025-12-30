@@ -152,7 +152,7 @@
       </td>
       <td align="center">
         <img width="400"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=TechSuvo108&theme=tokyonight"
+          src="https://streak-stats.demolab.com/?user=TechSuvo108&theme=tokyonight"
           alt="GitHub Streak" />
       </td>
     </tr>
