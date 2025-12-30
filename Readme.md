@@ -61,8 +61,12 @@
     <img src="./Assets/Mario_Hello.gif" width="40px">
   </h1>
   <!-- Right-side animated coder GIF -->
-  <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" />
-
+  <img
+  align="right"
+  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+  width="350"
+  style="margin: 10px;"
+/>
   👨🏻‍💻 <b>About me:</b> Exploring the world of <b>Full Stack Web Development</b><br/>
 
   🎓 <b>Education:</b> Pursuing <b>BTech CSE (2023–2027)</b><br/>
