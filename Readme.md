@@ -222,39 +222,21 @@
 
 <!-- ===================== QUOTE CARD ===================== -->
 <div align="center">
-  <blockquote
-    style="
-      background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-      padding: 30px;
-      border-radius: 14px;
-      max-width: 900px;
-      box-shadow: 0 0 20px rgba(0,0,0,0.4);
-    "
-  >
-    <p
-      style="
-        color: #9ef0ff;
-        font-size: 20px;
-        font-style: italic;
-        line-height: 1.6;
-      "
-    >
-      <span style="color: #ffd966; font-size: 28px;">“</span>
-      Any fool can write code that a computer can understand.
-      Good programmers write code that humans can understand.
-      <span style="color: #ffd966; font-size: 28px;">”</span>
-      <p
-      style="
-        color: #ff4d8d;
-        font-size: 18px;
-        text-align: right;
-        margin-top: 15px;
-      "
-    >
-      — Martin Fowler
-    </p>
-    </p>
-  </blockquote>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td bgcolor="#1a1b27" style="padding: 40px; border-radius: 10px;" align="center">
+        <p style="font-size: 20px; color: #79dafa; font-family: 'Georgia', serif; font-style: italic;">
+          <span style="color: #ff9e64; font-size: 30px;">“</span>
+          Any fool can write code that a computer can understand. 
+          Good programmers write code that humans can understand.
+          <span style="color: #ff9e64; font-size: 30px;">”</span>
+        </p>
+        <p align="right" style="color: #bb9af7; font-size: 18px; font-weight: bold; margin-top: 10px;">
+          — Martin Fowler
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 <br/>
 
