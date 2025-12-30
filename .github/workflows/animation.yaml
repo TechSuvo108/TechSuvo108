@@ -1,25 +1,34 @@
-name: Generate Animations
+name: Generate Contribution Animations
 
 on:
   schedule:
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
+
+  # Allows manual run from Actions tab
   workflow_dispatch:
+
+  # Runs when you push to main branch
   push:
     branches:
       - main
 
 jobs:
   generate:
-    permissions:
-      contents: write
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    permissions:
+      contents: write
 
-      - name: Generate snake.svg
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate snake SVG files
+      - name: Generate snake animation SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,18 +36,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Move assets to dist
-        run: |
-          mkdir -p dist
-          mv pacman.svg dist/ 2>/dev/null || true
-
-      - name: Push animations to the output branch
+      # Step 3: Push generated files to output branch
+      - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
