@@ -171,14 +171,12 @@
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 <div align="center">
   <h3>🐍 My Snake is Hungry!</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/TechSuvo108/TechSuvo108/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TechSuvo108/TechSuvo108/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake"
-      src="https://raw.githubusercontent.com/TechSuvo108/TechSuvo108/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+  <img
+    src="https://github.com/TechSuvo108/TechSuvo108/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="github contribution snake"
+  />
+
 </div>
 
 <br/>
