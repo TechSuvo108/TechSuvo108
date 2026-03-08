@@ -1,6 +1,6 @@
 <!-- ===================== PROFILE BANNER / DISPLAY IMAGE ===================== -->
 <div align="center">
-  <img src="./Assets/PokeDP.png" align="center" width="100%" height="50%"/>
+  <img src="./Assets/PokeDP.png" align="center" width="100%" height="300px"/>
 </div>
 
 <!-- ===================== TYPING INTRO HEADING ===================== -->
