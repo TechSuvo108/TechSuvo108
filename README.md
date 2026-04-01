@@ -107,8 +107,9 @@
   <tr>
     <td><b>⚙️ Frameworks / Libraries</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,express,nextjs,bootstrap,tailwind,redux" />
-      <img src="https://skills-icons.vercel.app/api/icons?i=daisyui" />
+      <img src="https://skillicons.dev/icons?i=react,express,nextjs" />
+      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,redux" />
+      <img src="https://skills-icons.vercel.app/api/icons?i=daisyui" style="width:48px; height:48px; />
     </td>
   </tr>
 
