@@ -109,7 +109,7 @@
     <td>
       <img src="https://skillicons.dev/icons?i=react,express,nextjs" />
       <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,redux" />
-      <img src="https://skills-icons.vercel.app/api/icons?i=daisyui" style="width:48px; height:48px; />
+      <img src="https://skills-icons.vercel.app/api/icons?i=daisyui" style="width:48px; height:48px;" />
     </td>
   </tr>
 
@@ -123,7 +123,7 @@
   <tr>
     <td><b>🛠️ Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea" />
     </td>
   </tr>
 
