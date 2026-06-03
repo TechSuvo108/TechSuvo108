@@ -113,19 +113,19 @@
     </td>
   </tr>
 
-  <tr>
-    <td><b>🗄️ Databases / Backend Services</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-    </td>
-  </tr>
+<tr>
+  <td><b>🗄️ Databases / Backend Services</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis" />
+  </td>
+</tr>
 
-  <tr>
-    <td><b>🛠️ Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea" />
-    </td>
-  </tr>
+<tr>
+  <td><b>🛠️ Tools</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea,docker" />
+  </td>
+</tr>
 
   <tr>
     <td><b>🖥️ Operating System</b></td>
